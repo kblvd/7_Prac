@@ -1,0 +1,164 @@
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\PartyInvites.dll.config
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\PartyInvites.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\PartyInvites.pdb
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\csc.exe
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\csc.exe.config
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\csc.rsp
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\csi.exe
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\csi.exe.config
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\csi.rsp
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.AppContext.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Collections.Immutable.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Console.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Globalization.Calendars.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.IO.Compression.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.IO.FileSystem.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Net.Http.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Net.Sockets.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.ValueTuple.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Xml.XPath.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\vbc.exe
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\vbc.exe.config
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\vbc.rsp
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\VBCSCompiler.exe
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\roslyn\VBCSCompiler.exe.config
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\Microsoft.Web.Infrastructure.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Helpers.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Mvc.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Razor.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.Deployment.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.Razor.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Razor.xml
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.xml
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.Deployment.xml
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.Razor.xml
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Helpers.xml
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\System.Web.Mvc.xml
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Razor.resources.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Webpages.resources.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Helpers.resources.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Mvc.resources.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.csprojAssemblyReference.cache
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.csproj.CoreCompileInputs.cache
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.csproj.CopyComplete
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.pdb
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\EntityFramework.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\EntityFramework.SqlServer.dll
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\EntityFramework.xml
+D:\Programs\Visual Studio\Projects\IFST_Lab_7\PartyInvites\bin\EntityFramework.SqlServer.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\PartyInvites.dll.config
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\PartyInvites.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\PartyInvites.pdb
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\csc.exe
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\csc.exe.config
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\csc.rsp
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\csi.exe
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\csi.exe.config
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\csi.rsp
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.AppContext.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Console.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.IO.Compression.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Net.Http.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Net.Sockets.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.ValueTuple.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Xml.XPath.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\vbc.exe
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\vbc.exe.config
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\vbc.rsp
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\VBCSCompiler.exe
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\EntityFramework.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\EntityFramework.SqlServer.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Helpers.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Mvc.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Razor.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.Deployment.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.Razor.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\EntityFramework.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\EntityFramework.SqlServer.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Razor.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.Deployment.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Webpages.Razor.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Helpers.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\System.Web.Mvc.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Razor.resources.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.csproj.AssemblyReference.cache
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.csproj.CopyComplete
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.dll
+C:\Users\koblo\Desktop\IFST_Lab_7\PartyInvites\obj\Debug\PartyInvites.pdb

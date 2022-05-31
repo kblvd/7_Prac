@@ -1,0 +1,47 @@
+﻿@model IEnumerable<PartyInvites.Models.GuestResponse>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<style>
+    body {
+        background-color: #000000;
+        color: white;
+    }
+</style>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>BorowsGuests</title>
+    <style>
+        td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h3>Пришлашенные на вечеринку</h3>
+        <table class="table">
+            <tr>
+                <td><p>Имя</p></td>
+                <td><p>Email</p></td>
+                <td><p>Телефон</p></td>
+                <td><p>Согласие</p></td>
+            </tr>
+            @foreach (PartyInvites.Models.GuestResponse b in Model)
+            {
+                <tr>
+                    <td><p>@b.Name</p></td>
+                    <td><p>@b.Email</p></td>
+                    <td><p>@b.Phone</p></td>
+                    <td><p>@b.Attend</p></td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

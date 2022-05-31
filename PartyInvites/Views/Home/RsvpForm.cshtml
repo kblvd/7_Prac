@@ -1,0 +1,40 @@
+﻿@model PartyInvites.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RsvpForm</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/Styles.css" />
+    <style>
+        body {
+            background-color: #000000;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary()
+            <p>Ваше имя: @Html.TextBoxFor(model => model.Name)</p>
+            <p>Ваше email: @Html.TextBoxFor(model => model.Email)</p>
+            <p>Ваше телефон: @Html.TextBoxFor(model => model.Phone)</p>
+            <p>
+                Вы придете?
+                @Html.DropDownListFor(model => model.Attend, new[] {
+                new SelectListItem() { Text = "Да, конечно я буду", Value = "Yes"},
+                new SelectListItem() { Text = "Нет, я не смогу", Value = "No"}
+                })
+            </p>
+            <input type="submit" value="Отправить форму RSVP" />
+        }
+    </div>
+</body>
+</html>
